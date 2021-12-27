@@ -1,3 +1,7 @@
+Archived in favour of [Repository](https://github.com/js-dos/repository)
+
+----
+
 # dos.zone
 A community driven DOS games database
 
